@@ -1,0 +1,45 @@
+{
+    "name": "Leveled",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "color-coded-tilemap": "*",
+        "controller": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.46",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#523C4E",
+        "#2A2A3A",
+        "#3E5442",
+        "#84545C",
+        "#38607C",
+        "#5C7A56",
+        "#101024",
+        "#B27E56",
+        "#D44E52",
+        "#55A894",
+        "#80AC40",
+        "#5C406c",
+        "#8BD0BA",
+        "#FFCC68",
+        "#FFF8C0"
+    ]
+}
