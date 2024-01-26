@@ -1180,7 +1180,7 @@ game.onUpdateInterval(500, function () {
             game.over(true)
         } else {
             music.playMelody("C - C G C5 C5 - - ", 480)
-            level += 13
+            level += 1
             setLevel(level)
         }
     }
